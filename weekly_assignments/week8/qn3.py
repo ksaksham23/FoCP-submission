@@ -7,11 +7,6 @@ that contain the string.
 """
 import sys
 
-print(sys.argv)
-
-print(sys.argv[2])
-
-
 string = sys.argv[1]
 filename = sys.argv[2]
 print(filename)
